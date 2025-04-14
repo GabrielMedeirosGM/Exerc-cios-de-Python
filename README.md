@@ -1,4 +1,5 @@
-🐍 Desafios em Python
+ 
+Desafios em Python
 Seja bem-vindo(a) ao meu repositório de desafios e exercícios em Python!
 Aqui você vai encontrar diversos scripts simples que desenvolvi para praticar lógica de programação, listas, laços de repetição, condicionais, entrada de dados e muito mais.
 
